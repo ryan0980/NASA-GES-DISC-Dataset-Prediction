@@ -176,7 +176,7 @@ Use this project to:
 
 ## Contact
 
-Shi Qiu - [LinkedIn](https://www.linkedin.com/in/shi1qiu) - [shiqiu@example.com](mailto:tusrau@gmail.com)
+Shi Qiu - [LinkedIn](https://www.linkedin.com/in/shi1qiu) - [tusrau@gmail.com](mailto:tusrau@gmail.com)
 
 Project Link: [https://github.com/ryan0980/NASA-GES-DISC-Dataset-Prediction](https://github.com/ryan0980/NASA-GES-DISC-Dataset-Prediction)
 
